@@ -5,4 +5,4 @@ __pycache__/
 .idea/
 .vscode/
 *.xlsx
-*.csv
+*.csv.DS_Store
